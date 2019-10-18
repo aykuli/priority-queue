@@ -2,3 +2,8 @@
 node_modules
 app.bundle.js
 app.bundle.js.map
+
+src/sandboxNode.js
+src/sandbox.js
+src/sandboxHeap.js
+src/sandboxQueue.js
